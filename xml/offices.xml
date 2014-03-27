@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : offices.xml
+    Created on : September 13, 2011, 3:39 PM
+    Author     : jsievel
+    Description:
+        This file maps office sns to full office names.
+-->
+
+<offices>
+    <o pn="OECA" sn="OECA" dn="EPA Office of Compliance and Enforcement"/>
+    <o pn="OEI" sn="OEI" dn="EPA Office of Environmental Information"/>
+    <o pn="ORD" sn="ORD" dn="EPA Office of Research and Development"/>
+    <o pn="ORD/NCEA" sn="NCEA" dn="EPA Office of Research and Development, National Centerfor Environmental Assessment"/>
+    <o pn="ORD/NERL" sn="NERL" dn="EPA Office of Research and Development, National Exposure Research Laboratory"/>
+    <o pn="ORD/NERL/ReVA" sn="ReVA" dn="EPA Office of Research and Development, National Exposure Research Laboratory, Regional Environmental Vulnerability Assessment"/>
+    <o pn="OSWER" sn="OSWER" dn="EPA Office of Solid Waste and Emergency Response"/>
+    <o pn="OW" sn="OW" dn="EPA Office of Water"/>
+    <o pn="R1" sn="R1" dn="EPA Region 1"/>
+    <o pn="R6" sn="R6" dn="EPA Region 6"/>
+    <o pn="R7" sn="R7" dn="EPA Region 7"/>
+    <o pn="R9" sn="R9" dn="EPA Region 9"/>
+    <o pn="R10" sn="R10" dn="EPA Region 10"/>
+</offices>

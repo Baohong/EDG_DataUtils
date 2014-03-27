@@ -1,0 +1,134 @@
+/* 
+    Document   : data
+    Created on : Jul 29, 2011, 10:14:10 AM
+    Author     : jsievel
+    Description:
+        Supports Data context.
+*/
+
+a:link, a:visited {
+	border-bottom:1px dotted;
+	color:#3d5e84;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a img {
+    border: medium none;
+    color: #507D99;
+}
+
+
+body {
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 100%;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    padding: 0pt;
+    font-size:10pt;
+    font-style:bold;
+    margin: 0;
+}
+.content {
+	width: 980px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	border-top-width: thick;
+	border-right-width: thick;
+	border-bottom-width: 25px;
+	border-left-width: thick;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #4C7283;
+	border-right-color: #4A5B63;
+	border-bottom-color: #4A5B63;
+	border-left-color: #4A5B63;
+	background-color: #FFF;
+}
+
+.container .content table tr td {
+	background-color: #FFF;
+	font-weight:normal;
+	font-size: small;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-align: left;
+	color: #777777;
+	padding:0px;
+}
+
+.fileName {
+    color: #444444;
+    font: 76%/1.5 "Lucida Grande",Geneva,Verdana,Arial,Helvetica,sans-serif;
+    text-align: left;
+    font: 10pt/1.5 Verdana,Arial,Helvetica,sans-serif;
+}
+.clickable {
+    border-bottom: 1px dotted;
+    cursor: pointer;
+}
+.details {
+    color: #444444;
+    font: 51%/1.5 "Lucida Grande",Geneva,Verdana,Arial,Helvetica,sans-serif;
+    text-align: left;
+}
+.margin {
+    width: 10px;
+}
+
+.headerMenu {
+        background: url(/DataUtils/images/Banner_Data.jpg) no-repeat scroll 0 0 #346796;
+        height:117px;
+        width:980px;
+}
+
+.loginInfo a:link, .loginInfo a:visited {
+    border-bottom: 1px dotted;
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.loginInfo a:hover, .loginInfo a:focus {
+    border-bottom: 1px solid;
+}
+
+.headerMenu  .loginInfo {
+    float: right;
+    margin-right: 1em;
+    padding-top: 0.5em;
+    color: #FFFFFF;
+    font-family: "Lucida Grande",Geneva,Verdana,Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    font-size-adjust: none;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+#gptFooter {
+    background: none repeat scroll 0 50% #4A5B63;
+    color: #FFFFFF !important;
+    font-size: 90%;
+    margin: 0;
+    padding: 1px;
+    text-align: center;
+    width: 100%;
+}
+
+#gptFooter a, #gptFooter a:visited, #gptFooter a:hover {
+    color: #FFFFFF;
+}
+
+
